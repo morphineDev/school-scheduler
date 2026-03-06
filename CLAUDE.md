@@ -16,7 +16,7 @@ Automatic school timetable generator and editor built with Angular 21.
 - `npm start` / `ng serve` - dev server at localhost:4200
 - `npm run build` / `ng build` - production build (output in dist/)
 - `npm test` / `ng test` - run unit tests with Vitest
-- `npx eslint .` - lint
+- `npm run lint` / `eslint .` - lint
 
 ## Code Style
 
