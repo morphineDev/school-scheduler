@@ -34,6 +34,8 @@ Automatic school timetable generator and editor built with Angular 21.
 - `src/app/` - application source
 - `src/styles.scss` - global styles with Material theme
 - `public/` - static assets
+- `docs/` - feature documentation and INDEX.md
+- `.claude/agents/` - custom Claude agents (planner, frontend-developer)
 
 ## Architecture Notes
 
